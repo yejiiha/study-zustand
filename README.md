@@ -1,1 +1,1 @@
-# study-zustand
+# algorithm-study
